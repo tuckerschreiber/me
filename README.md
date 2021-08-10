@@ -1,6 +1,6 @@
 Hello! 👋
 
-My name is Tucker. Currently, I'm working on **[COMBO](https://joincombo.com/)**.
+My name is Tucker. Currently, I'm working on **[Combo](https://joincombo.com/)**.
 
 **Product**
 
@@ -11,7 +11,7 @@ My name is Tucker. Currently, I'm working on **[COMBO](https://joincombo.com/)*
 5. **[Ivy](https://getivy.co/)**
 6. **[Buzz](https://www.linkedin.com/pulse/why-i-built-messaging-app-exercise-professional-tucker-schreiber/)**
 7. **[Bewdly Coffee](https://uncrate.com/maple-bacon-smoked-coffee/)**
-8. **[COMBO](https://www.joincombo.com/)**
+8. **[Combo](https://www.joincombo.com/)**
 
 **Writing**
 
@@ -35,6 +35,7 @@ My name is Tucker. Currently, I'm working on **[COMBO](https://joincombo.com/)*
 2. **[Would You Go to a Physical Location to Shop a Product Drop on Your Phone?](https://fashionista.com/2017/06/shopify-frenzy-app-antisocial-social-club)**
 3. **[Sneakerheads can get a pair of Kanye West’s ‘coveted’ Adidas Yeezy’s for $1 on Friday](https://www.cp24.com/news/sneakerheads-can-get-a-pair-of-kanye-west-s-coveted-adidas-yeezy-s-for-1-on-friday-1.3338311)**
 4. **[Frenzy x Capsule NYFW Exclusive Live Stream Drop](https://hypebeast.com/2017/7/frenzy-capsule-liberty-fairs-exclusive-nyfw-live-stream-drops)**
+5. **[Hello, Content Creators. Silicon Valley’s Investors Want to Meet You](https://www.nytimes.com/2021/07/12/technology/content-creators-venture-capital.html)**
 
 **Video**
 
