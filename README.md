@@ -1,6 +1,6 @@
 Hello! 👋
 
-My name is Tucker. Currently, I'm working on **[Combo](https://joincombo.com/)**.
+My name is Tucker. Currently, I'm the Co-founder and CEO of **[Combo](https://joincombo.com/)**.
 
 **Product**
 
